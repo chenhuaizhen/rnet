@@ -1,16 +1,15 @@
 # rnet
 关于rnet的实验  
-experiments of rnet  
+experiment of rnet  
 
 ## Cite(引用)
-rnet:  
 paper:[R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS*](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
 
 ## Requirements(环境)
 python 2-7  
 tensorflow 1.3.0
 
-## Training(训练)
+## Experiment(实验)
 
 ### Datasets(数据来源)
 Kaggle数据[CS5242 Project 2](https://www.kaggle.com/c/cs5242-project-2/data)
