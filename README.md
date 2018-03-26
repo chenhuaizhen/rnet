@@ -22,7 +22,7 @@ just run the code like
 python train.py
 ```
 
-运行以下代码即可生成测试结果 
+运行以下代码即可生成测试结果  
 just run the code like  
 ```python
 python predict.py
@@ -36,6 +36,6 @@ Then you will get a csv file which can upload to the [kaggle](https://www.kaggle
 Due to lack of GPUs, this experiment's accuracy was only about 40%.
 ![image](https://github.com/chenhuaizhen/rnet/raw/master/image/1.jpg)
 
-### Future Work
+### Future Work(改进)
 可以提高state_size和batch_size，改用glove.6B.300d  
 can enlarge the size of state and batch, and change to use glove.6B.300d  
