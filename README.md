@@ -12,7 +12,7 @@ tensorflow 1.3.0
 ## Experiment(实验)
 
 ### Datasets(数据来源)
-Kaggle数据[CS5242 Project 2](https://www.kaggle.com/c/cs5242-project-2/data)
+Kaggle数据[CS5242 Project 2](https://www.kaggle.com/c/cs5242-project-2/data)  
 Kaggle数据[glove.6B.50d](https://www.kaggle.com/devjyotichandra/glove6b50dtxt/data)
 
 ### Usage(使用方法)
